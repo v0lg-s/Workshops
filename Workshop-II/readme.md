@@ -1,9 +1,9 @@
-# Workshop 2
+# Workshop 2  
 
-## Descripción
-Este workshop incluye los siguientes componentes:
+## Description  
+This workshop covers the following topics:  
 
-- **Arquitectura del Sistema de Datos**
-- **Requerimientos de Información**
-- **Diseño de Consultas**
-- **Mejoras respecto al Workshop I**
+- **Data System Architecture**  
+- **Information Requirements**  
+- **Query Design**  
+- **Improvements over Workshop 1**  
