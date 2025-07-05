@@ -6,8 +6,8 @@ This workshop covers the following topics:
 
 - **Concurrency Analysis**
 - **Parallel and Distributed Database Design** 
-- **Performance Improvement Strategies:** 
-- **Improvements over Workshop 2** 
+- **Performance Improvement Strategies** 
+
 
 ## Files
 
